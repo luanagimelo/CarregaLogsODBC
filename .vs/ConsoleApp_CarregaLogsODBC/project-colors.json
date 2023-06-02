@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebdd15fc-1176-4b33-b405-4c87a73d7f96": {
+      "ProjectGuid": "ebdd15fc-1176-4b33-b405-4c87a73d7f96",
+      "DisplayName": "ConsoleApp_DashboardCFT",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

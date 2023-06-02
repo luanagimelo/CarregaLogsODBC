@@ -1,0 +1,8 @@
+C:\Users\LUAMELO\source\repos\ConsoleApp_CarregaLogsODBC\ConsoleApp_CarregaLogsODBC\bin\Debug\ConsoleApp_CarregaLogsODBC.exe.config
+C:\Users\LUAMELO\source\repos\ConsoleApp_CarregaLogsODBC\ConsoleApp_CarregaLogsODBC\bin\Debug\ConsoleApp_CarregaLogsODBC.exe
+C:\Users\LUAMELO\source\repos\ConsoleApp_CarregaLogsODBC\ConsoleApp_CarregaLogsODBC\bin\Debug\ConsoleApp_CarregaLogsODBC.pdb
+C:\Users\LUAMELO\source\repos\ConsoleApp_CarregaLogsODBC\ConsoleApp_CarregaLogsODBC\obj\Debug\ConsoleApp_CarregaLogsODBC.csproj.CoreCompileInputs.cache
+C:\Users\LUAMELO\source\repos\ConsoleApp_CarregaLogsODBC\ConsoleApp_CarregaLogsODBC\obj\Debug\ConsoleApp_CarregaLogsODBC.exe
+C:\Users\LUAMELO\source\repos\ConsoleApp_CarregaLogsODBC\ConsoleApp_CarregaLogsODBC\obj\Debug\ConsoleApp_CarregaLogsODBC.pdb
+C:\Users\LUAMELO\source\repos\ConsoleApp_CarregaLogsODBC\ConsoleApp_CarregaLogsODBC\obj\Debug\ConsoleApp_CarregaLogsODBC.csproj.AssemblyReference.cache
+C:\Users\LUAMELO\source\repos\ConsoleApp_CarregaLogsODBC\ConsoleApp_CarregaLogsODBC\obj\Debug\ConsoleApp_CarregaLogsODBC.csproj.SuggestedBindingRedirects.cache
